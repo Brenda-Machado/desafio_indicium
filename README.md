@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Gráficos e modelo
 
-Os gráficos foram salvos em .png na pasta /plots e o modelo foi salvo em um .pkl nomeado "imdb_regression_model".
+Os gráficos foram salvos em .png no "plots.zip" e o modelo foi salvo em um .pkl nomeado "imdb_regression_model".
 
 ---
 
